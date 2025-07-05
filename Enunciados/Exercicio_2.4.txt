@@ -1,0 +1,1 @@
+Escreva um programa que exiba o resultado de 2a * 3b em que A vale 3 e B vale 5

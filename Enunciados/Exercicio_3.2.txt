@@ -1,0 +1,18 @@
+Complete a tabela a seguir, respondendo True or False. Considere
+A=4 B=10 C=5.0 D=1 F=5
+
+
+Expressão | Resultado
+
+a==c      | []True []False 
+a<b       | []True []False 
+d>b       | []True []False 
+c!=f      | []True []False 
+a==b      | []True []False 
+a==b      | []True []False 
+c<b       | []True []False 
+b>a       | []True []False 
+c>=f      | []True []False 
+f>=c      | []True []False 
+c<=c      | []True []False 
+c<=f      | []True []False

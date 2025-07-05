@@ -1,0 +1,9 @@
+Complete a tabela a seguir marcando intenrou ou flutuante, dependendo do numero apresentad
+
+Numero - Tipo numerico
+5          [] inteiro []ponto flutuante
+5.0        [] inteiro []ponto flutuante
+4.3        [] inteiro []ponto flutuante
+-2         [] inteiro []ponto flutuante
+100        [] inteiro []ponto flutuante
+1.333      [] inteiro []ponto flutuante
