@@ -1,1 +1,2 @@
-Conte�do do Exercicio_5.4.txt
+Modifique o programa anterior para imprimir de 1 até o número digitado pelo usuário, mas, dessa vez, apenas os números ímpares.
+

@@ -1,1 +1,2 @@
-Conte�do do Exercicio_5.24.txt
+Modifique o programa anterior de forma a ler um número n. Imprima os n primeiros números primos.
+

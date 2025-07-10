@@ -1,1 +1,2 @@
-Conte�do do Exercicio_5.7.txt
+Modifique o programa anterior de forma que o usuário também digite o início e o fim da tabuada, em vez de começar com 1 e 10.
+

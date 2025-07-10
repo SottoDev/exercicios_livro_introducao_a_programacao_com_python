@@ -1,1 +1,2 @@
-Conteúdo do Exercicio_4.9.txt
+Rastreie o Programa 4.8. Compare seu resultado ao apresentado na Tabela 4.2.
+

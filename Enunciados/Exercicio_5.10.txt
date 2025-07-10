@@ -1,1 +1,2 @@
-Conte�do do Exercicio_5.10.txt
+Modifique o programa anterior para que aceite respostas com letras maiúsculas e minúsculas em todas as questões.
+

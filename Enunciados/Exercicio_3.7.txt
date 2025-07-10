@@ -1,1 +1,2 @@
-Conte�do do Exercicio_3.7.txt
+Faça um programa que peça dois números inteiros. Imprima a soma desses dois números na tela.
+

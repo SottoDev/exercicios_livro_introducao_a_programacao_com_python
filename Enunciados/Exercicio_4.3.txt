@@ -1,1 +1,3 @@
-Conte�do do Exercicio_4.3.txt
+Conte�do do Exercicio_4.3.txt
+Escreva um programa que leia três números e que imprima o maior e o menor.
+

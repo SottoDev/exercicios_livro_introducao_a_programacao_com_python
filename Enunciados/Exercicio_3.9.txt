@@ -1,1 +1,2 @@
-Conteúdo do Exercicio_3.9.txt
+Escreva um programa que leia a quantidade de dias, horas, minutos e segundos do usuÃ¡rio. Calcule o total em segundos.
+
